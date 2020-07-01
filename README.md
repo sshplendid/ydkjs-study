@@ -10,6 +10,10 @@ We don't know JS yet
 - [Lanace][4]
 - [jae-min-park][5]
 
+## 교재
+
+- [You don't know JS: 타입과 문법, 스코프와 클로저](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20%26%20grammar)
+
 ## 일정 & 장소
 
 매주 수요일 8시
@@ -19,16 +23,7 @@ We don't know JS yet
 
 ### 장소
 
-- [ ] 합정역 근처 스터디룸
-- [ ] 프로젝터 사용가능할 것
-- [ ] 격리된(조용한) 공간일 것
-- [ ] 역과 가까워야 함
-
-#### 후보
-
-- https://hd.sels.co.kr/
-- https://timerecipe.modoo.at/
-- http://www.sbunkers.com/
+- [스터디벙커](http://www.sbunkers.com/)
 
 ## 방식
 
