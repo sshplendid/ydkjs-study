@@ -42,9 +42,9 @@ We don't know JS yet
 
 ### PART II 스코프와 클로저
 
-- [ ]  1장 스코프란 무엇인가 → [sshplendid][1]
+- [ ]  1장 스코프란 무엇인가 → [hoilovesion][1]
 - [ ]  2장 렉시컬 스코프 → [top1436][2]
-- [ ]  3장 함수 vs 블록 스코프 → [hoilovesion][3]
+- [ ]  3장 함수 vs 블록 스코프 → [sshplendid][3]
 - [ ]  4장 호이스팅 → [jae-min-park][5]
 - [ ]  5장 스코프 클로저 → [Lanace][4]
 
