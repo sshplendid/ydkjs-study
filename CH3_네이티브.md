@@ -25,7 +25,6 @@ var a = new String("test");
 typeof a;
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fa7ceed-514c-4745-86a8-ea1decce92be/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fa7ceed-514c-4745-86a8-ea1decce92be/Untitled.png)
 
 실행 결과
 
