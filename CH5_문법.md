@@ -29,6 +29,7 @@ a = if(true) {
 } // a === 6 ?
 ```
 
+- do 표현식은 아직 [stage 1](https://github.com/tc39/proposal-do-expressions)
 - `eval`을 사용하면 가능하다
 
 하지만 굳이?
