@@ -34,8 +34,6 @@ foo();
 
 클로저의 규칙중 일부이므로 클로저라고 할 순 있다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc12f30e-43b0-4b33-9cfb-ecd8174bf6a5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc12f30e-43b0-4b33-9cfb-ecd8174bf6a5/Untitled.png)
-
 bar() 는 foo() 스코프에 대한 클로저를 가진다.
 
 스코프가 bar는 foo안에 중첩되어 있기 때문
