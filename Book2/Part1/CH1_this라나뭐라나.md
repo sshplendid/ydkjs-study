@@ -20,6 +20,9 @@ function speak() {
 }
 
 var me = {
+  name: "Kyle"
+};
+var you = {
   name: "Reader"
 };
 
