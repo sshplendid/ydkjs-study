@@ -92,7 +92,7 @@ console.log(foo.count); // 결국 4번 호출된거로 뜬다.
 아래 예제를 보면 적어도 this 가 함수 자신의 스코프를 가르키지 않는 다는 것을 알 수 있다.<br>
 
 **예제**
-```jsp
+```jsx
 function foo() {
   var a = 2;
   this.bar(); // 저자는 여기서 this.bar() 라고 하지말고 bar() 로 호출이 자연스럽다고 지적.
