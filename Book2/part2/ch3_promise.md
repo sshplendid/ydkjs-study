@@ -576,7 +576,7 @@ Promise.resolve(42)
     - 대부분의 경우 잘 통함
     - 버림상태를 유지해야 할 경우에는?
 - `done()`을 쓰자! (아마 `finally()` 얘기인듯)
-    - ECMA 표준에 없음 (finally는 후에 ECMA 2018로 발표됨)
+    - ECMA 표준에 없음 ([finally는 후에 ECMA 2018로 발표됨](https://github.com/tc39/proposals/blob/master/finished-proposals.md))
 
 ### 3.5.3. 성공의 구덩이
 
